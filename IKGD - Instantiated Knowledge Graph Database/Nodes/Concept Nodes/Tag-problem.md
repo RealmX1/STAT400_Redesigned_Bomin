@@ -1,0 +1,1 @@
+a problem is formulation which has both input and output. Instance of a problem is where input of a pipeline can be joined to an output, according to a black box.

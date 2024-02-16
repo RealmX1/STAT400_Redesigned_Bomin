@@ -1,0 +1,1 @@
+natural language schema for LLM to reference when it comes to decomposing new information into knowledge base.
