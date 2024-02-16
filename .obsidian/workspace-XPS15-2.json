@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "0185da7ee2b4eb38",
+    "type": "split",
+    "children": [
+      {
+        "id": "0795cf6b3ffeb085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a3599e9e6ac2f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "239cf4e0d08ea100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ae526c4f618a5ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Convexity of Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b515bd94127eb46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second-order condition (method of calculating convexity of a function).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf356fe2deeb970e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second-order condition (method of calculating convexity of a function).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cce049bf3e526f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second-order condition (method of calculating convexity of a function) examples.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "420ce9cbc5ee4501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "necessary condition & sufficient condition.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "871436436bd2c2a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "652c38251a62ba9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30cff7cf718da24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "29bb7f5dd444d389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "better",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "1478deab21809e40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "right": {
+    "id": "55d72694c54b3e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "425648c1ba86c89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0a8217e7724f79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Second-order condition (method of calculating convexity of a function) examples.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caab11a5127c0dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Second-order condition (method of calculating convexity of a function) examples.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b581aff85d6bbaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f60851e9241011b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Second-order condition (method of calculating convexity of a function) examples.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e30cff7cf718da24",
+  "lastOpenFiles": [
+    "General Programming/Javascript/request.md",
+    "General Programming/Javascript",
+    "General Programming",
+    "Templates/,template-pipeline-motivation.md",
+    "Templates",
+    "Optimization Problem.md",
+    "Mathematical Optimization.md",
+    "MSML604 Introduction to Optimization/MSML604 Lecture 0.md",
+    "MSML604 Introduction to Optimization/MSML604 Lecture 3 02-07 Convex Sets.md",
+    "Open and Closed Geometric Set.md",
+    "MSML604 Introduction to Optimization/General Course Information.md",
+    "MSML604 Introduction to Optimization/MSML604 Lecture 2.md",
+    "MSML604 Introduction to Optimization/Lecture 3 02-07.md",
+    "MSML604 Introduction to Optimization",
+    "Politics/characteristics of democracy/在不受威胁时希望小政府，在受到威胁时希望大政府.md",
+    "Politics/豪绅先出钱，带着百姓捐钱，豪绅捐了，百姓才跟着捐…….md",
+    "Politics/政变篡权一方的优势.md",
+    "Politics/对于一个邦联制国家而言，边陲地区增加新辖地可能不会受到与其不接壤地域的赞同。.md",
+    "Politics/古代帝王和佞臣之间的关系，佞臣做出来的事，有多少是出自帝王本人的授意呢？.md",
+    "Politics/What is Politics.md",
+    "Politics/US healthcare system.md",
+    "Politics/characteristics of democracy",
+    "Politics",
+    "MSML602 Principles of Data Science/Less Ink, so that people can focus more on the actual information.md",
+    "MSML602 Principles of Data Science/basic Modeling and Manipulating Data.md",
+    "MSML602 Principles of Data Science/MSML602 Lecture 9 Data Wrangling & Cleaning.md",
+    "MSML602 Principles of Data Science/MSML602 Final Review.md",
+    "MSML602 Principles of Data Science/MSML602 Lecture 1-2 Course Structure Overview.md",
+    "MSML602 Principles of Data Science/MSML602 Lecture 10 Entity Resolution & Missing Data Analysis.md",
+    "MSML602 Principles of Data Science/MSML602 Lecture 11 Informaiton Extraction & NLP.md",
+    "MSML602 Principles of Data Science/MSML602 Lecture 12 Information Visualization.md",
+    "Product/Neuroscience knowlegable ai DRAW PORN.md",
+    "Product",
+    "Manifesto",
+    "MSML602 Principles of Data Science",
+    "Values/存在问题解题",
+    "Pasted image 20240123191007.png",
+    "Pasted image 20240123191005.png",
+    "Pasted image 20240123190947.png",
+    "Pasted image 20240123190945.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20240118122537.png",
+    "Pasted image 20240118122533.png",
+    "Epistomology/Knowledge.canvas",
+    "Obsidian Playgrond/sample_canvas.canvas"
+  ]
+}

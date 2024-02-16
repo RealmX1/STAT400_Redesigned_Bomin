@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "0185da7ee2b4eb38",
+    "type": "split",
+    "children": [
+      {
+        "id": "926254e3c1f0943a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c483b4f7a66255d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "万物生于有，有生于无.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c0f0ce574302458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "万物生于有，有生于无.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "871436436bd2c2a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "652c38251a62ba9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30cff7cf718da24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "29bb7f5dd444d389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "better",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "1478deab21809e40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "right": {
+    "id": "55d72694c54b3e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "425648c1ba86c89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0a8217e7724f79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "万物生于有，有生于无.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caab11a5127c0dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "万物生于有，有生于无.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b581aff85d6bbaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f60851e9241011b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "万物生于有，有生于无.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c0f0ce574302458",
+  "lastOpenFiles": [
+    "Relation/Edge Types.md",
+    "Relation",
+    "In US the doctor doens't have the authority to give permission to surgery/use of medical devices.md",
+    "In US the doctor doens't have the authority to give permission to surgery",
+    "CMSC848J Lecture 3 02",
+    "calculation method of eigenvalue",
+    "Novel/理论/第一个炼宝贝入体的修士；如果不是大能，很可能被人切片了.md",
+    "root/principle",
+    "root",
+    "测试",
+    "awaiting discussion/武力作为维持不杀原则的手段？.md",
+    "Values/人本主义的困局.md",
+    "Novel/理论/信仰具现；贪天赐之功德。.md",
+    "AI/It might become the case that one's AI agent knows oneself better than one's active consciousness..md",
+    "万物生于有，有生于无.md",
+    "Untitled 2.md",
+    "Novel/理论/两类小说；从具体往抽象编一个尽可能合理的体系（故事为基础的框架构造）；vs。从抽象到具体的推演史诗（框架为基础的故事构造）.md",
+    "Values/Ideal vs. Tumor Values.md",
+    "product/AI-reminder setup based on AI operating system -- tell it what you are going to do, and what you want to be reminded of when doing X when ever you want, adn it will determine what to remind you of.md",
+    "20240122/It seems that in almost all fictions, the antagonist think that there is one and only one way out or forward..md",
+    "20240122/ENFORCEMENT OF VALUE..md",
+    "20240122/what is Love.md",
+    "武力作为维持不杀原则的手段？.md",
+    "Research Ideas/What does successful papers have in common that unsuccessful ones doesn't.md",
+    "Novel/逆宇宙；.md",
+    "Novel/无寿限仙人冷漠.md",
+    "Novel/idea-天高三尺.md",
+    "Novel/理论/道化vs香火同化.md",
+    "Novel/演变/中国古典天庭演变.md",
+    "Novel/演变/世界观构建演变.md",
+    "Novel/演变",
+    "Novel/理论/占卜血脉圈养.md",
+    "Novel/多人进阶 马甲.md",
+    "Novel/理论/仙侠毒素.md",
+    "Novel/入党资格认证（修仙版）",
+    "Theorizer - Paper/World hist Simulator",
+    "Pasted image 20240123191007.png",
+    "Pasted image 20240123191005.png",
+    "Pasted image 20240123190947.png",
+    "Pasted image 20240123190945.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20240118122537.png",
+    "Pasted image 20240118122533.png",
+    "Epistomology/Knowledge.canvas",
+    "Obsidian Playgrond/sample_canvas.canvas"
+  ]
+}

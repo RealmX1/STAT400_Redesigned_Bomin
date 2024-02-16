@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "0185da7ee2b4eb38",
+    "type": "split",
+    "children": [
+      {
+        "id": "30df2999244be295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a04eb1f483fa94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5d8797a4f90d673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IKGD - Instantiated Knowledge Graph Database/Nodes/Concept Nodes/Def-Concept.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c0fac72c98732c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/02-15 Lecture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ba30b0466c4078f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/template-concept.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04f318f36d44019c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Theorizer - Future/Theory-user/Pipeline design.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "e9632f6cf3fb15ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inspiration -- maybe what ML models, when it comes to their encoding of knowledge, doesn't have to follow that of human language..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0b262aa5309822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markov Decision Problem.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57884eed0b7fe15e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IKGD - Instantiated Knowledge Graph Database/Coherence metric/Setting for metric measurement.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30ed33e6ee6ad60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Values/什么是“大义”？什么是“道德”？.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fc4c15b545dbf9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/template-concept.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "871436436bd2c2a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "652c38251a62ba9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30cff7cf718da24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "29bb7f5dd444d389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "theory",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "7f2dd9a26be58877",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "right": {
+    "id": "55d72694c54b3e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "425648c1ba86c89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0a8217e7724f79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caab11a5127c0dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b581aff85d6bbaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f60851e9241011b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c6a04eb1f483fa94",
+  "lastOpenFiles": [
+    "Readme.md",
+    "@ Notes to work on/Readme.md",
+    "STAT400_Redesigned/Instantiable Concepts/Event (statistics).md",
+    "STAT400_Redesigned/Instantiable Concepts/experiment (Statistics).md",
+    "STAT400_Redesigned/Instantiable Concepts/Occurence of Event.md",
+    "STAT400_Redesigned/Instantiable Concepts/occurence evaluation.md",
+    "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md",
+    "STAT400_Redesigned/Instantiable Concepts/Sample Space.md",
+    "STAT400_Redesigned/Instantiable Concepts/Population.md",
+    "STAT400_Redesigned/'motivation node', 'motivation tree' and 'motivation tree guided learning process..md",
+    "STAT400_Redesigned/set theory/Set operations.md",
+    "STAT400_Redesigned/set theory/Union (set theory).md",
+    "STAT400_Redesigned/set theory/Intersection (set theory).md",
+    "Templates/template-theory.md",
+    "Templates/template-evaluation.md",
+    "Templates/,template-pipeline-motivation.md",
+    "Templates/template-property.md",
+    "Templates/template-operation.md",
+    "Templates/template-concept.md",
+    "IKGD - Instantiated Knowledge Graph Database/Nodes/Concept Nodes/template explanation.md",
+    "STAT400_Redesigned/set theory/Set Theory.md",
+    "Theorizer - Paper/Expand on the graph for scientific method..md",
+    "IKGD - Instantiated Knowledge Graph Database/Nodes/Concept Nodes/Def-Concept.md",
+    "2024-02-16.md",
+    "Theorizer - Paper/Summarization Augmented Retrieval..md",
+    "Values/什么是“大义”？什么是“道德”？.md",
+    "IKGD - Instantiated Knowledge Graph Database/Coherence metric",
+    "Theorizer - Future/Theory-user/Pipeline design.canvas",
+    "Courses/CMSC848J Cognitive Robotics/Sequential Decision Making",
+    "Courses/MSML604 Introduction to Optimization/realtime-lecture",
+    "Pasted image 20240214171621.png",
+    "Pasted image 20240214170422.png",
+    "Pasted image 20240214170038.png",
+    "Courses/CMSC848J Cognitive Robotics/Adversarial Search",
+    "Theorizer - Future/Theory-user/Road Map.canvas",
+    "IKGD - Instantiated Knowledge Graph Database/Instantiated Knowledge Storage Schema",
+    "Theorizer - Future/Theory-user",
+    "Courses/MSML641 Natural Language Processing",
+    "Courses",
+    "Values/Presentation",
+    "Pasted image 20240212140943.png",
+    "Pasted image 20240212114019.png",
+    "Pasted image 20240212095916.png",
+    "IKGD - Instantiated Knowledge Graph Database/graph presentation",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174103.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174055.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174015.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211211204.png",
+    "Epistomology/Knowledge.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Obsidian Playgrond/sample_canvas.canvas"
+  ]
+}

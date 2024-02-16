@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "0185da7ee2b4eb38",
+    "type": "split",
+    "children": [
+      {
+        "id": "30df2999244be295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "908c5a12aef386fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6a04eb1f483fa94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT400_Redesigned/Instantiable Concepts/experiment (Statistics).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04f318f36d44019c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Theorizer - Future/Theory-user/Pipeline design.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "e9632f6cf3fb15ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inspiration -- maybe what ML models, when it comes to their encoding of knowledge, doesn't have to follow that of human language..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46c191aac8af1521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/MSML604 Introduction to Optimization/spanning set.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fc4c15b545dbf9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/template-concept.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "871436436bd2c2a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "652c38251a62ba9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30cff7cf718da24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "29bb7f5dd444d389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "templa",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "7f2dd9a26be58877",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "right": {
+    "id": "55d72694c54b3e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "425648c1ba86c89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0a8217e7724f79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STAT400_Redesigned/Instantiable Concepts/experiment (Statistics).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caab11a5127c0dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STAT400_Redesigned/Instantiable Concepts/experiment (Statistics).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b581aff85d6bbaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f60851e9241011b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STAT400_Redesigned/Instantiable Concepts/experiment (Statistics).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c6a04eb1f483fa94",
+  "lastOpenFiles": [
+    "STAT400_Redesigned/Instantiable Concepts/occurence evaluation.md",
+    "STAT400_Redesigned/Instantiable Concepts/Occurence of Event.md",
+    "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md",
+    "STAT400_Redesigned/Instantiable Concepts/Population.md",
+    "Courses/CMSC848J Cognitive Robotics/Adversarial Search/Minimax Search.md",
+    "Courses/CMSC848J Cognitive Robotics/Adversarial Search/Modeling multiagent games;.md",
+    "Theorizer - Future/Theory-user/Theory-User Road Map.md",
+    "Courses/CMSC848J Cognitive Robotics/Adversarial Search/Zero-Sum Games.md",
+    "A-star Search Algorithm.md",
+    "Admissibility of Heuristics.md",
+    "Courses/CMSC848J Cognitive Robotics/Adversarial Search",
+    "Courses/CMSC848J Cognitive Robotics/Search & Planning/02-08 lecture.md",
+    "Courses/CMSC848J Cognitive Robotics/Search & Planning/02-13 lecture.md",
+    "Courses/CMSC848J Cognitive Robotics/Course information-.md",
+    "Courses/CMSC848J Cognitive Robotics/CMSC848J Lecture 3 02-01.md",
+    "Important INSPIRATION- individual need to fulfill self-interest results in societal benefit -- but only for benefit defined in terms of satisfaction of individual's desires..md",
+    "2024-02-13.md",
+    "Theorizer - Future/Theory-user/Design of a convex cohesion metric for knowledgebase.....md",
+    "Courses/MSML641 Natural Language Processing/MSML641 Lecture 3.md",
+    "Templates/template-concept.md",
+    "Inspiration -- maybe what ML models, when it comes to their encoding of knowledge, doesn't have to follow that of human language..md",
+    "Courses/MSML604 Introduction to Optimization/spanning set.md",
+    "Courses/MSML604 Introduction to Optimization/Vector Space.md",
+    "Courses/MSML604 Introduction to Optimization/Vector.md",
+    "Courses/MSML604 Introduction to Optimization/Set of Vectors.md",
+    "Courses/MSML604 Introduction to Optimization/spanning (vector set).md",
+    "Theorizer - Future/Theory-user/Pipeline design.canvas",
+    "Ontology.md",
+    "Theorizer - Future/Theory-user/Road Map.canvas",
+    "IKGD - Instantiated Knowledge Graph Database/Instantiated Knowledge Storage Schema",
+    "Theorizer - Future/Theory-user",
+    "Courses/MSML641 Natural Language Processing",
+    "Courses",
+    "Values/Presentation",
+    "Pasted image 20240212140943.png",
+    "Pasted image 20240212114019.png",
+    "Pasted image 20240212095916.png",
+    "IKGD - Instantiated Knowledge Graph Database/graph presentation",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174103.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174055.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174015.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211211204.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211203941.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211202710.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211201916.png",
+    "IKGD - Instantiated Knowledge Graph Database/Nodes/Operation Nodes",
+    "IKGD - Instantiated Knowledge Graph Database/Theorem",
+    "IKGD - Instantiated Knowledge Graph Database/Nodes/Evaluation Nodes",
+    "Epistomology/Knowledge.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Obsidian Playgrond/sample_canvas.canvas"
+  ]
+}
