@@ -21,6 +21,10 @@ end{instantiation}
 given an [[experiment (Statistics)]], the set of all possible [[Outcome (of experiment)]]
 \end{def}
 
+\begin{notation}
+$S$
+\end{notation}
+
 \begin{example}
 1. sample space for a coin toss experiment: $S=\{H,T\}$, where $H,T$ represent head and tail
 2. sample space for reaction time to stimulus experiment: $S=(0,\infty)$, the set of all positive numbers

@@ -1,14 +1,16 @@
 ---
 tags:
-  - evaluation
   - operation
-inputs: 
-outputs:
+  - evaluation
+datatype: boolean
 ---
 \begin{input}
+[[Set]] A
+[[Set]] B
 \end{input}
 
 \begin{output}
+boolean
 \end{output}
 
 

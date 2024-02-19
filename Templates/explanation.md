@@ -1,0 +1,1 @@
+evaluation is subset of operation, used for marking operations that have common datatype as output; but is it necessary?

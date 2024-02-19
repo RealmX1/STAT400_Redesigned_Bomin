@@ -6,6 +6,7 @@
     "date": "date",
     "relations": "multitext",
     "output": "number",
-    "inputs": "multitext"
+    "inputs": "multitext",
+    "directed": "checkbox"
   }
 }

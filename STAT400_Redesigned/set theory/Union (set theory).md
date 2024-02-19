@@ -16,3 +16,5 @@ $A \cup B$
 [[Set]] $\{x:x\in A ~ or ~ x\in B\}$
 \end{output}
 #STAT400_Redesigned
+
+![[Pasted image 20240219102128.png]]

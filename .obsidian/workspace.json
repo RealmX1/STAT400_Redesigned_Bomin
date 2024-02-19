@@ -13,133 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md",
+                "file": "Templates/template-theorem.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "d5d8797a4f90d673",
+            "id": "a755a46d4e55b8bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IKGD - Instantiated Knowledge Graph Database/Nodes/Concept Nodes/Def-Concept.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c0fac72c98732c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/02-15 Lecture.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ba30b0466c4078f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/template-concept.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04f318f36d44019c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Theorizer - Future/Theory-user/Pipeline design.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "e9632f6cf3fb15ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inspiration -- maybe what ML models, when it comes to their encoding of knowledge, doesn't have to follow that of human language..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b0b262aa5309822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markov Decision Problem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57884eed0b7fe15e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IKGD - Instantiated Knowledge Graph Database/Coherence metric/Setting for metric measurement.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30ed33e6ee6ad60b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Values/什么是“大义”？什么是“道德”？.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fc4c15b545dbf9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/template-concept.md",
+                "file": "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "theory",
+                "query": "tag:#theory  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -205,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md",
+                "file": "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md",
+                "file": "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md"
+                "file": "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md"
               }
             }
           }
@@ -268,34 +163,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6a04eb1f483fa94",
+  "active": "a755a46d4e55b8bd",
   "lastOpenFiles": [
-    "Readme.md",
-    "@ Notes to work on/Readme.md",
-    "STAT400_Redesigned/Instantiable Concepts/Event (statistics).md",
-    "STAT400_Redesigned/Instantiable Concepts/experiment (Statistics).md",
-    "STAT400_Redesigned/Instantiable Concepts/Occurence of Event.md",
-    "STAT400_Redesigned/Instantiable Concepts/occurence evaluation.md",
-    "STAT400_Redesigned/Instantiable Concepts/Outcome (of experiment).md",
-    "STAT400_Redesigned/Instantiable Concepts/Sample Space.md",
-    "STAT400_Redesigned/Instantiable Concepts/Population.md",
-    "STAT400_Redesigned/'motivation node', 'motivation tree' and 'motivation tree guided learning process..md",
-    "STAT400_Redesigned/set theory/Set operations.md",
-    "STAT400_Redesigned/set theory/Union (set theory).md",
-    "STAT400_Redesigned/set theory/Intersection (set theory).md",
-    "Templates/template-theory.md",
-    "Templates/template-evaluation.md",
-    "Templates/,template-pipeline-motivation.md",
-    "Templates/template-property.md",
-    "Templates/template-operation.md",
     "Templates/template-concept.md",
-    "IKGD - Instantiated Knowledge Graph Database/Nodes/Concept Nodes/template explanation.md",
+    "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md",
+    "Templates/template-theorem.md",
+    "Templates/template-evaluation.md",
+    "Templates/template-operation.md",
+    "STAT400_Redesigned/set theory/Union (set theory).md",
+    "Pasted image 20240219102128.png",
+    "Venn Diagram.md",
+    "STAT400_Redesigned/set theory/Set operations.md",
+    "STAT400_Redesigned/set theory/group-basic set theory.md",
+    "empty set.md",
+    "STAT400_Redesigned/set theory/Universal Set.md",
+    "STAT400_Redesigned/set theory/subset of.md",
+    "STAT400_Redesigned/set theory/set equivalance.md",
+    "STAT400_Redesigned/set theory/Intersection (set theory).md",
     "STAT400_Redesigned/set theory/Set Theory.md",
-    "Theorizer - Paper/Expand on the graph for scientific method..md",
-    "IKGD - Instantiated Knowledge Graph Database/Nodes/Concept Nodes/Def-Concept.md",
-    "2024-02-16.md",
-    "Theorizer - Paper/Summarization Augmented Retrieval..md",
-    "Values/什么是“大义”？什么是“道德”？.md",
+    "STAT400_Redesigned/General Information.md",
+    "Templates/explanation.md",
+    "Courses/MSML604 Introduction to Optimization/similarity transformation.md",
+    "Courses/MSML604 Introduction to Optimization/evaluation of eigen value.md",
+    "Courses/MSML604 Introduction to Optimization/Linear Independence Evaluation.md",
+    "Courses/MSML604 Introduction to Optimization/Set Spanning Evaluation.md",
+    "STAT400_Redesigned/Instantiable Concepts/occurence evaluation.md",
+    "STAT400_Redesigned/Instantiable Concepts/Experiment.md",
+    "STAT400_Redesigned/Instantiable Concepts/Sample Space.md",
+    "Courses/MSML604 Introduction to Optimization/projection of vector onto vector.md",
+    "STAT400_Redesigned/Instantiable Concepts/Event (statistics).md",
+    "Pasted image 20240217213140.png",
+    "App Development/General Knowledge",
+    "App Development/Trace of Thought",
+    "App Development",
+    "Theorizer - Future/General structure for AGI",
+    "Values/《Who is to Evaluate？》",
     "IKGD - Instantiated Knowledge Graph Database/Coherence metric",
     "Theorizer - Future/Theory-user/Pipeline design.canvas",
     "Courses/CMSC848J Cognitive Robotics/Sequential Decision Making",
@@ -306,18 +208,11 @@
     "Courses/CMSC848J Cognitive Robotics/Adversarial Search",
     "Theorizer - Future/Theory-user/Road Map.canvas",
     "IKGD - Instantiated Knowledge Graph Database/Instantiated Knowledge Storage Schema",
-    "Theorizer - Future/Theory-user",
-    "Courses/MSML641 Natural Language Processing",
-    "Courses",
-    "Values/Presentation",
     "Pasted image 20240212140943.png",
     "Pasted image 20240212114019.png",
     "Pasted image 20240212095916.png",
-    "IKGD - Instantiated Knowledge Graph Database/graph presentation",
     "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174103.png",
     "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174055.png",
-    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174015.png",
-    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211211204.png",
     "Epistomology/Knowledge.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

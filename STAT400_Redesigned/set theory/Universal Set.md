@@ -14,10 +14,16 @@ aliases:
 \end{relations}
 
 \begin{def}
+the set of all objects of interest.
+in statistics, it usually refers to the set of all possible outcomes, which is equivalent to [[Sample Space]]
 \end{def}
 
 \begin{notation}
+$U$
 \end{notation}
 
 \begin{instantiation}
+
 \end{instantiation}
+
+
