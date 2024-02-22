@@ -2,6 +2,7 @@
 tags:
   - concept
 aliases:
+  - null set
 ---
 \begin{relations}
 	-definition_depend_on-> [[]] %%depend on and is not a child of%%
@@ -14,18 +15,17 @@ aliases:
 \end{relations}
 
 \begin{def}
-the set of all objects of interest.
-in statistics, it usually refers to the set of all possible outcomes, which is equivalent to [[Sample Space]]
+a set with no element in it
+formal definition is the set of elements which doesn't have identity property: $\emptyset = \{x:x\ne x\}$
 \end{def}
 
 \begin{notation}
-$U$
+$\emptyset$
 \end{notation}
 
 \begin{instantiation}
 
 \end{instantiation}
 
-
-
+note that since  empty set itself has identity, $\{\emptyset\}$ is not an empty set; instead, it is a set containing the empty set as its sole element.
 #STAT400_Redesigned

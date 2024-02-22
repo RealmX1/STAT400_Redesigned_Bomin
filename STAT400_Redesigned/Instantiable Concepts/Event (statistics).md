@@ -5,9 +5,9 @@ aliases:
 ---
 \begin{relations}
 	-definition_depend_on-> [[]]
-	-has_element-> [[]]
+	-has_element-> [[Outcome (of experiment)]]
 	-owns_concept-> [[]]
-	-owns_property-> [[Occurence of Event]]
+	-owns_property-> [[Occurence of Event]] ?#IKGD_minor_change 
 	-has_property_axis->  [[]]
 	-parent_on_axis [no_axis]->  [[]]
 	-pipeline[some concept/pipeline]->  [[]]
@@ -25,5 +25,6 @@ arbitrary collection of possible outcomes of arbitrary instance of [[experiment 
 
 
 
+#STAT400_Redesigned
 #STAT400_Redesigned
 #STAT400_Redesigned

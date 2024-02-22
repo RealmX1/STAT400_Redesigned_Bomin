@@ -16,3 +16,7 @@ $A \cap B$
 [[Set]] $\{x:x\in A ~ and ~ x\in B\}$
 \end{output}
 #STAT400_Redesigned
+
+[[Venn Diagram]]
+![[Pasted image 20240219112124.png]]
+#STAT400_Redesigned

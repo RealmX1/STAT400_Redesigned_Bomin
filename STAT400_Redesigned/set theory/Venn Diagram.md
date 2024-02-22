@@ -14,18 +14,18 @@ aliases:
 \end{relations}
 
 \begin{def}
-the set of all objects of interest.
-in statistics, it usually refers to the set of all possible outcomes, which is equivalent to [[Sample Space]]
+
 \end{def}
 
 \begin{notation}
-$U$
+$B$
 \end{notation}
 
 \begin{instantiation}
-
+instantiation on an arbitrary set $X$
+1. **Trivial Sigma-Algebra**: For any set $X$, there is always the trivial sigma-algebra, which contains only the empty set and the set $X$ itself. This is the smallest sigma-algebra possible on $X$.
+    
+2. **Discrete Sigma-Algebra**: Conversely, there is the discrete sigma-algebra, which contains all possible subsets of $X$. This is the largest sigma-algebra on $X$ and is also known as the power set of $X$.
+3. ![[Pasted image 20240221193718.png]]
 \end{instantiation}
-
-
-
 #STAT400_Redesigned

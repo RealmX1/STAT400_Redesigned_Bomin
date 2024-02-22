@@ -13,89 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus of Probabilities.md",
+                "file": "Templates/template-theorem.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "c7df8680ae695103",
+            "id": "a755a46d4e55b8bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT400_Redesigned/set theory/Sigma-algebra.md",
+                "file": "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d5d8797a4f90d673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IKGD - Instantiated Knowledge Graph Database/Nodes/Concept Nodes/Def-Concept.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ba30b0466c4078f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/template-concept.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04f318f36d44019c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Theorizer - Future/Theory-user/Pipeline design.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "f8d6e44ed64687c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IKGD - Instantiated Knowledge Graph Database/Coherence metric/Setting for metric measurement.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cadfa08bf4753532",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sigma algebra",
+                "query": "tag:#theory  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -161,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus of Probabilities.md",
+                "file": "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus of Probabilities.md",
+                "file": "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus of Probabilities.md"
+                "file": "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md"
               }
             }
           }
@@ -224,56 +163,56 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6a04eb1f483fa94",
+  "active": "a755a46d4e55b8bd",
   "lastOpenFiles": [
-    "Pasted image 20240221195655.png",
-    "STAT400_Redesigned/Instantiable Concepts/Probability Function.md",
-    "Calculus of Probabilities.md",
-    "STAT400_Redesigned/set theory/Sigma-algebra.md",
-    "STAT400_Redesigned/misallenious/Tree Diagram.md",
-    "Pasted image 20240221193814.png",
-    "STAT400_Redesigned/set theory/Axioms for a Probability Function.md",
-    "STAT400_Redesigned/set theory/Venn Diagram.md",
-    "Pasted image 20240221193718.png",
-    "STAT400_Redesigned/Instantiable Concepts/Event (statistics).md",
-    "STAT400_Redesigned/Instantiable Concepts/Sample Space.md",
-    "STAT400_Redesigned/Instantiable Concepts/Experiment.md",
-    "STAT400_Redesigned/Instantiable Concepts/Occurence of Event.md",
-    "STAT400_Redesigned/Instantiable Concepts/experiment (Statistics).md",
-    "STAT400_Redesigned/set theory/Union (set theory).md",
-    "Set.md",
-    "STAT400_Redesigned/set theory/Set operations.md",
-    "STAT400_Redesigned/misallenious",
-    "STAT400_Redesigned/set theory/Set Theory.md",
-    "Theorizer - Future/Theory-user/Pipeline design.canvas",
-    "IKGD - Instantiated Knowledge Graph Database/Coherence metric/Setting for metric measurement.md",
     "Templates/template-concept.md",
-    "Values/什么是“大义”？什么是“道德”？.md",
-    "Markov Decision Problem.md",
-    "Inspiration -- ML model's encoding of knowledge, doesn't have to follow that of human language..md",
-    "Courses/02-15 Lecture.md",
-    "IKGD - Instantiated Knowledge Graph Database/Nodes/Concept Nodes/Def-Concept.md",
-    "Second-order condition (method of calculating convexity of a function).md",
-    "Inspiration-Encoding the knwoledge base pipelines into hardware for machine learning;.md",
-    "Courses/CMSC848J Cognitive Robotics/Student projects/Untitled.md",
-    "Courses/CMSC848J Cognitive Robotics/Student projects",
-    "Pasted image 20240219113130.png",
-    "Pasted image 20240219113125.png",
-    "Pasted image 20240219112949.png",
-    "Pasted image 20240219112151.png",
-    "Pasted image 20240219112124.png",
-    "STAT400_Redesigned/Instantiable Concepts/Experiment.md~RF4a312.TMP",
+    "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md",
+    "Templates/template-theorem.md",
+    "Templates/template-evaluation.md",
+    "Templates/template-operation.md",
+    "STAT400_Redesigned/set theory/Union (set theory).md",
     "Pasted image 20240219102128.png",
-    "Pasted image 20240219102128.png~RF4a2a5.TMP",
-    "Venn Diagram.md~RF4a14d.TMP",
+    "Venn Diagram.md",
+    "STAT400_Redesigned/set theory/Set operations.md",
+    "STAT400_Redesigned/set theory/group-basic set theory.md",
+    "empty set.md",
+    "STAT400_Redesigned/set theory/Universal Set.md",
+    "STAT400_Redesigned/set theory/subset of.md",
+    "STAT400_Redesigned/set theory/set equivalance.md",
+    "STAT400_Redesigned/set theory/Intersection (set theory).md",
+    "STAT400_Redesigned/set theory/Set Theory.md",
+    "STAT400_Redesigned/General Information.md",
+    "Templates/explanation.md",
+    "Courses/MSML604 Introduction to Optimization/similarity transformation.md",
+    "Courses/MSML604 Introduction to Optimization/evaluation of eigen value.md",
+    "Courses/MSML604 Introduction to Optimization/Linear Independence Evaluation.md",
+    "Courses/MSML604 Introduction to Optimization/Set Spanning Evaluation.md",
+    "STAT400_Redesigned/Instantiable Concepts/occurence evaluation.md",
+    "STAT400_Redesigned/Instantiable Concepts/Experiment.md",
+    "STAT400_Redesigned/Instantiable Concepts/Sample Space.md",
+    "Courses/MSML604 Introduction to Optimization/projection of vector onto vector.md",
+    "STAT400_Redesigned/Instantiable Concepts/Event (statistics).md",
     "Pasted image 20240217213140.png",
     "App Development/General Knowledge",
     "App Development/Trace of Thought",
     "App Development",
     "Theorizer - Future/General structure for AGI",
     "Values/《Who is to Evaluate？》",
+    "IKGD - Instantiated Knowledge Graph Database/Coherence metric",
+    "Theorizer - Future/Theory-user/Pipeline design.canvas",
+    "Courses/CMSC848J Cognitive Robotics/Sequential Decision Making",
+    "Courses/MSML604 Introduction to Optimization/realtime-lecture",
     "Pasted image 20240214171621.png",
+    "Pasted image 20240214170422.png",
+    "Pasted image 20240214170038.png",
+    "Courses/CMSC848J Cognitive Robotics/Adversarial Search",
     "Theorizer - Future/Theory-user/Road Map.canvas",
+    "IKGD - Instantiated Knowledge Graph Database/Instantiated Knowledge Storage Schema",
+    "Pasted image 20240212140943.png",
+    "Pasted image 20240212114019.png",
+    "Pasted image 20240212095916.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174103.png",
+    "Courses/MSML604 Introduction to Optimization/Pasted image 20240211174055.png",
     "Epistomology/Knowledge.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

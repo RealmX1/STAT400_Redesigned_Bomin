@@ -20,3 +20,5 @@ True IFF $\forall x \in A, ~\text{we have} ~ x \in B$
 \begin{notation}
 $A\subset B$
 \end{notation}
+
+#STAT400_Redesigned

@@ -6,3 +6,4 @@ From this it seems that statistics is one of those disciplines where we can cons
 it is still a very crude idea though
 #STAT400_Redesigned
 #STAT400_Redesigned
+#STAT400_Redesigned

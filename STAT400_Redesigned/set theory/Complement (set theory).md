@@ -1,11 +1,10 @@
 ---
 tags:
   - operation
-  - binary
 ---
 \begin{input}
 [[Set]] $A$
-[[Set]] $B$
+
 \end{input}
 
 \begin{notation}
@@ -18,5 +17,5 @@ $A \cup B$
 #STAT400_Redesigned
 
 [[Venn Diagram]]
-![[Pasted image 20240219102128.png]]
+![[Pasted image 20240219112151.png]]
 #STAT400_Redesigned

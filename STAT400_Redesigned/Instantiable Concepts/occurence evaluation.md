@@ -11,3 +11,4 @@ begin{output}
 whether outcome of experiment is in event.
 end{output}
 #STAT400_Redesigned
+#STAT400_Redesigned

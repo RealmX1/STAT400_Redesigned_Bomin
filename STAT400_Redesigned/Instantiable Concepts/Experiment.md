@@ -29,3 +29,5 @@ a repeatable task with well defined [[Outcome (of experiment)]]s.
 \end{instantiation}
 
 
+
+#STAT400_Redesigned

@@ -1,8 +1,8 @@
 ---
 tags:
   - operation
-  - evaluation
-datatype: boolean
+aliases: 
+datatype: operation
 ---
 \begin{input}
 [[Set]] A
@@ -10,10 +10,14 @@ datatype: boolean
 \end{input}
 
 \begin{output}
-boolean
+[[Set]] C
 \end{output}
 
 
 \begin{notation}
+$C=A \textbackslash B$
 \end{notation}
+
+[[Venn Diagram]]
+![[Pasted image 20240219112949.png]]
 #STAT400_Redesigned

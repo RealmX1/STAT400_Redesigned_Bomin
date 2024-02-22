@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus of Probabilities.md",
+                "file": "Venn Diagram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c7df8680ae695103",
+            "id": "f0502b273df81985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT400_Redesigned/set theory/Sigma-algebra.md",
+                "file": "Second-order condition (method of calculating convexity of a function).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,6 +40,19 @@
               "type": "markdown",
               "state": {
                 "file": "IKGD - Instantiated Knowledge Graph Database/Nodes/Concept Nodes/Def-Concept.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c0fac72c98732c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/02-15 Lecture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +88,33 @@
             }
           },
           {
-            "id": "f8d6e44ed64687c5",
+            "id": "e9632f6cf3fb15ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inspiration -- maybe what ML models, when it comes to their encoding of knowledge, doesn't have to follow that of human language..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0b262aa5309822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markov Decision Problem.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57884eed0b7fe15e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,11 +127,29 @@
             }
           },
           {
-            "id": "cadfa08bf4753532",
+            "id": "30ed33e6ee6ad60b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Values/什么是“大义”？什么是“道德”？.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fc4c15b545dbf9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/template-concept.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -124,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sigma algebra",
+                "query": "first order",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -161,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus of Probabilities.md",
+                "file": "Venn Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus of Probabilities.md",
+                "file": "Venn Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus of Probabilities.md"
+                "file": "Venn Diagram.md"
               }
             }
           }
@@ -226,54 +283,54 @@
   },
   "active": "c6a04eb1f483fa94",
   "lastOpenFiles": [
-    "Pasted image 20240221195655.png",
-    "STAT400_Redesigned/Instantiable Concepts/Probability Function.md",
-    "Calculus of Probabilities.md",
-    "STAT400_Redesigned/set theory/Sigma-algebra.md",
-    "STAT400_Redesigned/misallenious/Tree Diagram.md",
-    "Pasted image 20240221193814.png",
-    "STAT400_Redesigned/set theory/Axioms for a Probability Function.md",
-    "STAT400_Redesigned/set theory/Venn Diagram.md",
-    "Pasted image 20240221193718.png",
-    "STAT400_Redesigned/Instantiable Concepts/Event (statistics).md",
-    "STAT400_Redesigned/Instantiable Concepts/Sample Space.md",
-    "STAT400_Redesigned/Instantiable Concepts/Experiment.md",
-    "STAT400_Redesigned/Instantiable Concepts/Occurence of Event.md",
-    "STAT400_Redesigned/Instantiable Concepts/experiment (Statistics).md",
-    "STAT400_Redesigned/set theory/Union (set theory).md",
-    "Set.md",
-    "STAT400_Redesigned/set theory/Set operations.md",
-    "STAT400_Redesigned/misallenious",
-    "STAT400_Redesigned/set theory/Set Theory.md",
-    "Theorizer - Future/Theory-user/Pipeline design.canvas",
-    "IKGD - Instantiated Knowledge Graph Database/Coherence metric/Setting for metric measurement.md",
-    "Templates/template-concept.md",
-    "Values/什么是“大义”？什么是“道德”？.md",
-    "Markov Decision Problem.md",
-    "Inspiration -- ML model's encoding of knowledge, doesn't have to follow that of human language..md",
-    "Courses/02-15 Lecture.md",
-    "IKGD - Instantiated Knowledge Graph Database/Nodes/Concept Nodes/Def-Concept.md",
-    "Second-order condition (method of calculating convexity of a function).md",
-    "Inspiration-Encoding the knwoledge base pipelines into hardware for machine learning;.md",
-    "Courses/CMSC848J Cognitive Robotics/Student projects/Untitled.md",
-    "Courses/CMSC848J Cognitive Robotics/Student projects",
     "Pasted image 20240219113130.png",
     "Pasted image 20240219113125.png",
+    "Minus (set theory).md",
+    "STAT400_Redesigned/set theory/Set operations.md",
+    "Complement (set theory).md",
+    "STAT400_Redesigned/set theory/Intersection (set theory).md",
+    "STAT400_Redesigned/set theory/Union (set theory).md",
+    "Second-order condition (method of calculating convexity of a function).md",
     "Pasted image 20240219112949.png",
     "Pasted image 20240219112151.png",
     "Pasted image 20240219112124.png",
+    "n-th Leading principal minor.md",
+    "STAT400_Redesigned/set theory/group-basic set theory.md",
+    "STAT400_Redesigned/set theory/set equivalance.md",
+    "STAT400_Redesigned/set theory/subset of.md",
+    "STAT400_Redesigned/set theory/Universal Set.md",
+    "Templates/explanation.md",
+    "empty set.md",
+    "STAT400_Redesigned/Instantiable Concepts/Experiment.md",
     "STAT400_Redesigned/Instantiable Concepts/Experiment.md~RF4a312.TMP",
+    "awaiting discussion/apple's hard to fix & upgrade policy also make its product easier to sell.md",
     "Pasted image 20240219102128.png",
     "Pasted image 20240219102128.png~RF4a2a5.TMP",
+    "Venn Diagram.md",
     "Venn Diagram.md~RF4a14d.TMP",
+    "Templates/template-theorem.md",
+    "Templates/template-concept.md",
+    "Courses/MSML604 Introduction to Optimization/Convexity of Function.md",
+    "First-order condition.md",
+    "positive semidefinite, positive definite.md",
+    "App Development/General Knowledge/Backend.md",
+    "Untitled.md",
+    "App Development/General Knowledge/Frontend.md",
+    "State management solution.md",
     "Pasted image 20240217213140.png",
     "App Development/General Knowledge",
     "App Development/Trace of Thought",
     "App Development",
     "Theorizer - Future/General structure for AGI",
     "Values/《Who is to Evaluate？》",
+    "IKGD - Instantiated Knowledge Graph Database/Coherence metric",
+    "Theorizer - Future/Theory-user/Pipeline design.canvas",
+    "Courses/CMSC848J Cognitive Robotics/Sequential Decision Making",
     "Pasted image 20240214171621.png",
+    "Pasted image 20240214170422.png",
+    "Pasted image 20240214170038.png",
     "Theorizer - Future/Theory-user/Road Map.canvas",
+    "Pasted image 20240212140943.png",
     "Epistomology/Knowledge.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
